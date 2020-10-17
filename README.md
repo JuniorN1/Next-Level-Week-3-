@@ -2,7 +2,7 @@
 
 ## Sobre
 
-#### O Next level Week e um evento que ocorre no periodo de 1 semana, com intuito de possibilitar e capacitar profissionais de TI(tecnologia da Informação) que desenvolvam aplicativos complestos, back-end, front-end e mobile
+#### O Next level Week e um evento que ocorre no período de 1 semana, com intuito de possibilitar e capacitar profissionais de TI(tecnologia da Informação) que desenvolvam aplicativos completos, back-end, front-end e mobile.
 
 ## O Projeto
 
@@ -14,4 +14,4 @@
 #### Typeorm, Axios, Expo, Sqlite
 
 ## Modelo de Aplicação Utilizado
-#### - SAP Single Page Aplication : O modelo de SAP que e ultilizado nesse e muitos projetos, trabalha em cima da navegação em pilha (Stake Navegation), de maneira que a aplicação fique de uma forma mais fluida.
+#### - SAP Single Page Aplication : O modelo de SAP que e utilizado nesse e muitos projetos, trabalha em cima da navegação em pilha (Stake Navegation), de maneira que a aplicação fique de uma forma mais fluida.
